@@ -1,0 +1,60 @@
+.container{
+	width: 300px;
+	height: 250px;
+	background-color: white;
+	margin: auto;
+	margin-top: 30px;
+	padding: 10px;
+	border-radius: 6px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+.count{
+	margin: 10px;
+}
+.btn{
+	margin: 4px;
+	padding: 5px;
+}
+.btn1, .btn2, .btn3 {
+	margin: 4px;
+	padding: 6px;
+	border-radius: 4px;
+	border: none;
+	cursor: pointer;
+	transition-duration: 2s;
+	color: white;
+}
+
+.btn1{
+	background-color: green;
+	
+}
+.btn1:hover{
+	background-color: rgb(133, 189, 51);
+}
+.btn2{
+	background-color: blue;
+}
+.btn2:hover{
+	background-color: rgb(6, 6, 88);
+}
+.btn3{
+	background-color: red;
+}
+
+.btn3:hover{
+	background-color: rgb(196, 85, 85);
+}
+.btn4{
+	background-color: aqua;
+	border: none;
+	padding: 5px;
+	cursor: pointer;
+}
+
+input{
+	padding: 4px;
+}

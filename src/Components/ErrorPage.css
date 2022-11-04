@@ -1,0 +1,23 @@
+.err{
+	width: 300px;
+	height: 200px;
+	background-color: white;
+	margin: auto;
+	padding: 5px;
+	border-radius: 4px;
+}
+
+h3{
+	color: red;
+}
+p{
+	color: green;
+}
+span{
+	color: green;
+}
+span a{
+	text-decoration: none;
+	font-weight: bold;
+	color: green;
+}
